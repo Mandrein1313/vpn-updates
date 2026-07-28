@@ -1,1 +1,5 @@
-[https://github.com/Mandrein1313/vpn-updates/releases/download/v1.0.0/update.zip](https://github.com/Mandrein1313/vpn-updates/releases/download/v1.0.0/update.zip)
+{
+  "Version": "1.0.0",
+  "Url": "https://github.com/Mandrein1313/vpn-updates/releases/download/v1.0.0/update.zip",
+  "Changelog": "อัปเดตไฟล์คอนฟิก VPN ใหม่ล่าสุด"
+}
